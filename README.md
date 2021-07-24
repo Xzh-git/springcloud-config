@@ -1,1 +1,4 @@
-# springcloud-config
+﻿# springcloud-config
+<<<<<<< HEAD
+=======
+
